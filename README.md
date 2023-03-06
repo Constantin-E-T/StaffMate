@@ -34,7 +34,7 @@ This code is a Team Profile Generator that lets the user create a team based on 
 
 ## Screenshots
 
-![App Screenshot](./assets/images/index.png)
+![App Screenshot](./assets/images/test-pass.png)
 ![App Screenshot](./assets/images/team.png)
 
 ## Authors
