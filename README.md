@@ -32,11 +32,10 @@ This code is a Team Profile Generator that lets the user create a team based on 
 * [Dependencies](#dependencies)
 * [License](#license)
 
-
 ## Screenshots
 
-![App Screenshot](./assets/images/StaffMate.png)
-![App Screenshot](./assets/images/StaffMate.png)
+![App Screenshot](./assets/images/index.png)
+![App Screenshot](./assets/images/team.png)
 
 ## Authors
 

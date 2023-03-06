@@ -1,0 +1,43 @@
+/* CSS code for class "cards" */
+.cards {
+    /* Define grid container */
+    display: grid;     
+    /* Define grid structure with 5 columns each with a fraction of 1 */
+    grid-template-columns: repeat(5, 1fr); 
+    /* Define grid structure with 5 rows each with a fraction of 1 */    
+    grid-auto-rows: auto;
+    /* Define the space between the grid items */
+    grid-gap: 1rem;
+}
+
+/* Media query for screens with maximum width of 1200px */
+@media screen and (max-width: 1200px) {
+    .cards {
+        /* Change number of columns to 4 for smaller screens */
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/* Media query for screens with maximum width of 900px */
+@media screen and (max-width: 900px) {
+    /* Change number of columns to 3 for smaller screens */
+    .cards {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* Media query for screens with maximum width of 600px */
+@media screen and (max-width: 600px) {
+    /* Change number of columns to 2 for smaller screens */
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Media query for screens with maximum width of 500px */
+@media screen and (max-width: 500px) {
+    /* Change number of columns to 1 for smaller screens */
+    .cards {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
