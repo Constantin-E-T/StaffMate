@@ -15,10 +15,6 @@
 
 This code is a Team Profile Generator that lets the user create a team based on their type "Manager", "Engineer", or "Intern". Once the user has input all of the necessary details, the HTML file will be generated in the output folder.
 
-## Project Live Video Demo👇
-
-* Check out the live video demo [@StaffMate](https://drive.google.com/file/d/1R22T2q9FY4P7ZfJRNlem_Jbo8aS7JdEq/view) and see how it works! 🚀
-
 ## Table of Contents
 
 * [Installation](#installation)
