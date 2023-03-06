@@ -66,6 +66,10 @@ This code is a Team Profile Generator that lets the user create a team based on 
 
 * Finally, navigate inside the OUTPUT folder and open TEAM.html file to view the generated team profile.
 
+* To run tests, execute the following command:
+
+        npm test
+
 ## Usage
 
 This code can be used by anyone who wants to create a simple Team Profile Generator.
